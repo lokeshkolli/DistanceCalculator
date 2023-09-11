@@ -1,6 +1,4 @@
-* .Net 6.0, C# Console Application.
 
-* Total execution time: 1567 ms.
 
 * Application running
 Binary data file read execution time : 45 ms
@@ -17,5 +15,3 @@ Binary data file read execution time : 45 ms
 Closest position calculation execution time : 3958 ms
 Total execution time : 4003 ms
 
-
-* Note: Just put the binary data file in bin DIR before running the application.
