@@ -3,9 +3,19 @@
 * Total execution time: 1567 ms.
 
 * Application running
-<p align="center">
-  <img src="https://github.com/harakill/DistanceCalculator/blob/main/Docs/Output03.png" width="800" title="1567 ms">
-</p>
+Binary data file read execution time : 45 ms
+ Distance between 34,544909 : -102,100843 and 34,5450325012207 : -102,10150909423828 = 0,06253053425275701 KM with Id 1017652
+ Distance between 32,345544 : -99,123124 and 32,34754180908203 : -99,12191009521484 = 0,2496936281834121 KM with Id 609817
+ Distance between 33,234235 : -100,214124 and 33,23323440551758 : -100,21514129638672 = 0,14604555293821847 KM with Id 230140
+ Distance between 35,195739 : -95,348899 and 35,19633102416992 : -95,34922790527344 = 0,07229322620374233 KM with Id 284382
+ Distance between 31,895839 : -97,789573 and 31,895187377929688 : -97,78909301757812 = 0,08545527060128155 KM with Id 1724293
+ Distance between 32,895839 : -101,789573 and 32,89590835571289 : -101,78733825683594 = 0,2087810587964949 KM with Id 1442878
+ Distance between 34,115839 : -100,225732 and 34,11565399169922 : -100,22537231445312 = 0,03898036590464824 KM with Id 108054
+ Distance between 32,335839 : -99,992232 and 32,33456802368164 : -99,9914779663086 = 0,15808047563447697 KM with Id 1247417
+ Distance between 33,535339 : -94,792232 and 33,53670883178711 : -94,79186248779297 = 0,15611369462389657 KM with Id 87700
+ Distance between 32,234235 : -100,222222 and 32,23622512817383 : -100,22180938720703 = 0,22465858307949538 KM with Id 282385
+Closest position calculation execution time : 3958 ms
+Total execution time : 4003 ms
 
 
 * Note: Just put the binary data file in bin DIR before running the application.
