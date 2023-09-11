@@ -2,7 +2,7 @@
 
 * Total execution time: 1567 ms.
 
-* Applicarion running
+* Application running
 <p align="center">
   <img src="https://github.com/harakill/DistanceCalculator/blob/main/Docs/Output03.png" width="800" title="1567 ms">
 </p>
